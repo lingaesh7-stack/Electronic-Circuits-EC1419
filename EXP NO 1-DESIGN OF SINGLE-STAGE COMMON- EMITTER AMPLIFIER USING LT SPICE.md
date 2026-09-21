@@ -11,10 +11,15 @@
 <img width="670" height="212" alt="image" src="https://github.com/user-attachments/assets/bc13bd31-7d40-4d98-93b6-75e3acce59f1" />
 
 
+
 ## circuit diagram
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-21 at 12 40 22 PM" src="https://github.com/user-attachments/assets/34c1e6ba-8eb5-438f-94ed-afbfe63f7464" />
 
 ## graph
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-21 at 12 40 31 PM" src="https://github.com/user-attachments/assets/aa459035-38b3-47f7-a98c-f70dbdceb1c9" />
 
 ## calculation
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-21 at 12 41 02 PM" src="https://github.com/user-attachments/assets/72553a0f-a41f-4b26-869b-e34028c69df4" />
 
 ## result
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-21 at 12 41 14 PM" src="https://github.com/user-attachments/assets/c1588737-b123-4910-97e4-f5add08a58b2" />
