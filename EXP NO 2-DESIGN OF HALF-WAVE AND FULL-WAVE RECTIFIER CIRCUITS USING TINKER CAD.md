@@ -8,7 +8,7 @@
 
 
 ## tinker cad circuit diagram and calculation
-<img width="1599" height="899" alt="WhatsApp Image 2026-09-21 at 12 41 14 PM" src="https://github.com/user-attachments/assets/37826bca-fdaf-454a-95d7-45367a974aec" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-21 at 12 50 30 PM" src="https://github.com/user-attachments/assets/717f8072-3849-41ca-8a21-bedecd1d0c63" />
 
 ## result
 <img width="1599" height="511" alt="WhatsApp Image 2026-09-21 at 12 52 25 PM" src="https://github.com/user-attachments/assets/f31d29a3-3879-49f9-b7f9-2a6cfc40de3a" />
