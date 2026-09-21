@@ -27,8 +27,8 @@
 <img width="1600" height="692" alt="WhatsApp Image 2026-09-21 at 12 54 57 PM" src="https://github.com/user-attachments/assets/35a07d49-7b9d-4226-9300-f94ea12780b3" />
 
 ## calculation
-<img width="1600" height="692" alt="WhatsApp Image 2026-09-21 at 12 54 57 PM" src="https://github.com/user-attachments/assets/0816ede1-8ce8-48c2-ab6d-8e1160a48c65" />
+<img width="1600" height="1010" alt="WhatsApp Image 2026-09-21 at 12 55 20 PM" src="https://github.com/user-attachments/assets/2a5bacd3-7876-4101-a088-7847bda3397d" />
 
 ## result
-<img width="1600" height="1010" alt="WhatsApp Image 2026-09-21 at 12 55 20 PM" src="https://github.com/user-attachments/assets/fdebcf75-9368-4ff1-a4d7-340505e920a8" />
+<img width="1599" height="632" alt="WhatsApp Image 2026-09-21 at 12 55 38 PM" src="https://github.com/user-attachments/assets/973605e3-e4b1-4802-a12f-69cf691c3e79" />
 
