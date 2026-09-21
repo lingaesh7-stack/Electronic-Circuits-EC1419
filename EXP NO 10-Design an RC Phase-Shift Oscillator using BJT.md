@@ -9,9 +9,13 @@
 
 
 ## tabulation
+<img width="1600" height="1397" alt="WhatsApp Image 2026-09-21 at 1 20 44 PM" src="https://github.com/user-attachments/assets/bee96720-f1ba-4b5d-9c9f-b8f7a5c7ce85" />
 
 ## output graph sheet
+<img width="1600" height="1137" alt="WhatsApp Image 2026-09-21 at 1 24 06 PM" src="https://github.com/user-attachments/assets/a69d625b-cef8-40ab-9ec3-dc8bf7768c3d" />
 
 ## calculation
+<img width="1600" height="1141" alt="WhatsApp Image 2026-09-21 at 1 22 20 PM" src="https://github.com/user-attachments/assets/85cc1479-0f36-410f-85f1-3f6faedffd8b" />
 
 ## result
+<img width="1600" height="843" alt="WhatsApp Image 2026-09-21 at 1 24 23 PM" src="https://github.com/user-attachments/assets/34ac0727-49c0-46b3-8ca6-80d5fd678a43" />
