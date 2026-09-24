@@ -28,10 +28,6 @@
 <img width="1600" height="886" alt="image" src="https://github.com/user-attachments/assets/66d707f8-03a7-4dd0-9c5c-456eaa31fc09" />
 
 
-## Tabulation
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4c9860d-ab1e-4f58-ad3f-6d09c1dbdaa7" />
-
-
 ## calculation
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e2e2680f-924a-4b27-9a8d-d4f1bcfb22c5" />
 
